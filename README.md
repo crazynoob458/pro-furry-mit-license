@@ -9,7 +9,7 @@
 I love Open Source, and I want to give my software away to as many people as
 possible. However, people hate furries for no reason and i want to fix that
 
-If you are dont like furries, you have
+If you like furries, you have
 absolutely nothing to worry about. I will not pursue any legal claims against
 you, even if my license text is (extremely) poorly written.
 
