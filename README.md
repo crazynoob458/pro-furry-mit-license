@@ -16,4 +16,4 @@ you, even if my license text is (extremely) poorly written.
 If that is not enough for your organization, I can personally grant you an
 unmodified MIT license. Please follow these steps:
 
-- go here and download this('https://github.com/aws/mit-0')
+- go here and download this(https://github.com/aws/mit-0)
